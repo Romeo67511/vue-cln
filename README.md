@@ -26,3 +26,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 test
 test2
+
+更改main为默认主分支
