@@ -1,14 +1,14 @@
 <template>
-  <ContentBase>
-    首页
-  </ContentBase>
+    <ContentBase>
+      404
+    </ContentBase>
 </template>
 
 <script>
 import ContentBase from '../components/ContentBase'
 // @ is an alias to /src
 export default {
-  name: 'HomeView',
+  name: 'NotFoundView',
   components: {
     ContentBase
   }
